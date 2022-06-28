@@ -1,0 +1,36 @@
+.header{
+    background-color: rgb(0, 0, 0);
+    height: 80px ;
+
+}
+
+.header-logo{
+    float: left; 
+    color:cornsilk;
+    font-size: 50px;
+    padding: 10px 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+.header-logo span{
+    color: rgb(2, 218, 218);}
+
+
+li{
+    list-style: none;
+}
+.header-list li{
+   float:left;
+    color:cornsilk;
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 30px 30px;
+}
+
+
+
+.sns li{
+    float: right;
+    padding: 30px 15px;
+}
